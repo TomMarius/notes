@@ -6,4 +6,7 @@ Nacionalismus na českém území lze sledovat až do ranného středověku, kdy
 
 ## 90. léta
 
+Po necelých 42 letech vlivu Rusů cítí Češi potřebu se silně národně vymezit, nově je v důsledku kulturní blízkosti ale vzdáleného původu nepřítele kladen větší důraz na rodné občanství a vlast, než v meziválečném období. Důraz na rodný jazyk a jeho znalost stále přetrvává. Častěji se Češi vymezují i proti Moravanům a naopak.
+
 ## Současnost
+
