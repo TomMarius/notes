@@ -1,3 +1,4 @@
+- open source 3D printer able to produce vehicles
 - open source modular/customizable 3D printed electric car
   - variable seats (sitting/standing)
   - optional cargo areas
