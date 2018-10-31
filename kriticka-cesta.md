@@ -1,0 +1,7 @@
+- open source modular/customizable 3D printed electric car
+  - variable seats (sitting/standing)
+  - optional cargo areas
+  - self-driving through openpilot (?)
+- open source modular/3D printed aquaponics + all necessary electronics & software
+- open source robots
+- universal internet connection everywhere
