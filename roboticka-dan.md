@@ -8,7 +8,7 @@ Automatizace téměř veškeré produkce a služeb je pozitivní, nikoliv negati
 
 Daň se promítá do ceny produktu. Pokud zdaním produkty, na které všem lidem zároveň v plné výši přispívám, vytvořím feedback loop, který vede k zničení civilizace. 
 
-Odkázat všechny na podporu státu není udržitelné - nárust robotizace, imigrace, růst populace a lidská povaha sama o sobě. Lidé, pokud nemají být závislí na státu, potřebují nejnižší možné ceny.
+Odkázat všechny na podporu státu není udržitelné - nárust robotizace, imigrace, růst populace a lidská povaha sama o sobě. Lidé, pokud nemají být závislí na státu, potřebují nejnižší možné ceny. Samotná státní správa stojí nemalé peníze.
 
 Pokud neexistuje umělý faktor jako daň a materiály jsou jednoduše a levně získatelné i zpracovávatelné ve velkých objemech, ceny, tvořené především marží, se přirozenou tržní soutěží sníží až na nulu, kdy podobně jako například bankovní účet (který byl dříve placený) bude většina služeb i produktů zdarma, zdroj zisku a tedy placené budou ty, které závisí na lidech, a půjde o luxus.
 
