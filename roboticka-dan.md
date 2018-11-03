@@ -6,7 +6,7 @@ Postupně přijde o práci většina populace. Práce není pozitivní faktor.
 
 Automatizace téměř veškeré produkce a služeb je pozitivní, nikoliv negativní jev.
 
-Daň se promítá do ceny produktu. Pokud zdaním produkty, na které všem lidem zároveň přispívám, vytvořím feedback loop, který vede k zničení civilizace.
+Daň se promítá do ceny produktu. Pokud zdaním produkty, na které všem lidem zároveň v plné výši přispívám, vytvořím feedback loop, který vede k zničení civilizace. 
 
 Odkázat všechny na podporu státu není udržitelné - nárust robotizace, imigrace, růst populace a lidská povaha sama o sobě. Lidé, pokud nemají být závislí na státu, potřebují nejnižší možné ceny.
 
