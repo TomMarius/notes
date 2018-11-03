@@ -11,3 +11,4 @@
 - open source modular/3D printed aquaponics + all necessary electronics & software
 - open source robots
 - universal internet connection everywhere
+- cross-laminated timber
