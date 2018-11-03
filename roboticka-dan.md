@@ -6,7 +6,7 @@ Postupně přijde o práci většina populace. Nutnost lidské práce není pozi
 
 Automatizace téměř veškeré produkce a služeb je pozitivní, nikoliv negativní jev.
 
-Daň se promítá do ceny produktu. Pokud zdaním produkty, na které všem lidem zároveň v plné výši přispívám, vytvořím feedback loop, který vede k zničení civilizace. 
+Daň se promítá do ceny produktu. Pokud se zdaní produkty a služby, na které se narůstajícímu množství lidí zároveň v plné výši přispívá, vznikne cyklus neustálého zvyšování daní, což ale zvýšuje cenu produktů a služeb, a tedy vytváří nutnost zvýšit daně. Tento cyklus by skončil úplným ekonomickým kolapsem civilizace.
 
 Odkázat všechny na podporu státu není udržitelné - nárust robotizace, imigrace, růst populace a lidská povaha sama o sobě. Lidé, pokud nemají být závislí na státu, potřebují nejnižší možné ceny. Samotná státní správa stojí nemalé peníze.
 
@@ -14,4 +14,4 @@ Pokud neexistuje umělý faktor jako daň a materiály jsou jednoduše a levně 
 
 Mezera mezi chudými a bohatými tedy zmizí sama. Bohatství v materiálním smyslu přestane existovat. Svým způsobem se téměř všichni stanou stejně chudými, ovšem zároveň stejně bohatými.
 
-Zničení civilizace v důsledku daní je samozřejmě nepravděpodobné - někdo by to včas zarazil. Problém je, že pravdepodobně v tento okamžik by vznikla globální totalita, viz historická zkušenost - a vzhledem k technologickému pokroku (AI, computer vision, internet, robotizace) by s tím už nešlo nic dělat.
+Kolaps civilizace v důsledku daní je samozřejmě nepravděpodobný - lidé by byli se systémem nespokojeni daleko dříve, než by k tomu došlo; problém je, že historická zkušenost říká, že právě v takové době se společnost radikalizuje a umožňuje vzestup diktátorů a jejich totalit, což většinou končí (světovou) válkou - a vzhledem k technologickému pokroku (AI, computer vision, internet, robotizace) by s touto totalitou už nešlo nic dělat.
