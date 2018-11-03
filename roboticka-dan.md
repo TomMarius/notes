@@ -10,7 +10,7 @@ Odkázat všechny na podporu státu není udržitelné - nárust robotizace, imi
 
 Pokud neexistuje umělý faktor jako daň a materiály jsou jednoduše a levně získatelné i zpracovávatelné ve velkých objemech, ceny, tvořené především marží, se přirozenou tržní soutěží sníží až na cenu materiálů, a pravděpodobně dojde k situaci, kdy podobně jako například bankovní účet (který byl dříve placený) bude většina služeb i produktů zdarma, zdroj zisku a tedy placené budou ty, které závisí na lidech, a půjde o luxus.
 
-Mezera mezi chudými a bohatými tedy zmizí sama. Bohatství v materiálním smyslu přestane existovat. Protože se jedná o snížení cen ze strany nabídky, nikoliv zvýšení možností (platů) na straně poptávky, teoreticky se všichni stanou stejně *chudými* - ale zároveň stejně bohatými. Tento irelevantní rozdíl zneužívají politici k argumentaci pro zavedení daně.
+Mezera mezi chudými a bohatými tedy zmizí sama. Bohatství v materiálním smyslu přestane existovat. Protože se jedná o snížení cen ze strany nabídky, nikoliv zvýšení možností (platů) na straně poptávky, teoreticky se všichni stanou stejně *chudými* - ale zároveň stejně bohatými. Tento irelevantní rozdíl zneužívají lidé k argumentaci pro zavedení daně.
 
 Kolaps civilizace v důsledku daní je samozřejmě nepravděpodobný - lidé by byli se systémem nespokojeni daleko dříve, než by k tomu došlo; problém je, že historická zkušenost říká, že právě v takové době se společnost radikalizuje a umožňuje vzestup diktátorů a jejich totalit, což většinou končí (světovou) válkou - a vzhledem k technologickému pokroku (AI, computer vision, internet, robotizace) by s touto totalitou už nešlo nic dělat.
 
