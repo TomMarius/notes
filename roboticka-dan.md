@@ -2,7 +2,7 @@
 
 Častým návrhem na řešení důsledků robotizace je daň, která by postihla automatizovanou část produkce, a získané peníze by byly distribuovány mezi lidi, kteří v důsledku robotizace přišli o práci.
 
-Postupně přijde o práci většina populace. Nutnost lidské práce není pozitivní faktor.
+Postupně přijde o práci většina populace. Nutnost lidské práce není pozitivní, ale naopak prudce negativní faktor.
 
 Automatizace téměř veškeré produkce a služeb je pozitivní, nikoliv negativní jev.
 
