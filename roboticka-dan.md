@@ -10,7 +10,7 @@ Daň se promítá do ceny produktu. Pokud se zdaní produkty a služby, na kter�
 
 Odkázat všechny na podporu státu není udržitelné - nárust robotizace, imigrace, růst populace a lidská povaha sama o sobě. Lidé, pokud nemají být závislí na státu, potřebují nejnižší možné ceny. Samotná státní správa stojí nemalé peníze.
 
-Pokud neexistuje umělý faktor jako daň a materiály jsou jednoduše a levně získatelné i zpracovávatelné ve velkých objemech, ceny, tvořené především marží, se přirozenou tržní soutěží sníží až na nulu, kdy podobně jako například bankovní účet (který byl dříve placený) bude většina služeb i produktů zdarma, zdroj zisku a tedy placené budou ty, které závisí na lidech, a půjde o luxus.
+Pokud neexistuje umělý faktor jako daň a materiály jsou jednoduše a levně získatelné i zpracovávatelné ve velkých objemech, ceny, tvořené především marží, se přirozenou tržní soutěží sníží až na cenu materiálů, a pravděpodobně dojde k situaci, kdy podobně jako například bankovní účet (který byl dříve placený) bude většina služeb i produktů zdarma, zdroj zisku a tedy placené budou ty, které závisí na lidech, a půjde o luxus.
 
 Mezera mezi chudými a bohatými tedy zmizí sama. Bohatství v materiálním smyslu přestane existovat. Svým způsobem se téměř všichni stanou stejně chudými, ovšem zároveň stejně bohatými.
 
