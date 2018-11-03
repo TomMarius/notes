@@ -17,3 +17,7 @@ Kolaps civilizace v důsledku daní je samozřejmě nepravděpodobný - lidé by
 Robotická daň dává smysl jako dočasné opatření, kdy lidé, kteří přisli o práci, ještě nemají možnost dostupných základních produktů a služeb (jídlo, pití, ubytování, zdravotní péče), protože technologický a společenský pokrok není v danou chvíli dostatečný. Praxe ale ukazuje, že demokracie nevede k logickým nebo efektivním řešením - mnohem větší sílu mají populisté. Současný vzestup extrémní pravice i levicového populismu by velice pravděpodobně zabránil včasnému zrušení této daně; navíc by neměla společnost motivaci svou budoucnost včas řešit, a technologický a společenský pokrok by tedy nemusel v důsledku nikdy být dostatečný.
 
 Řešení robotizace prostřednictvím státu a jeho sociálního systému místo tržního a společenského řešení navíc vede k dalším negativním společenským jevům, jako je odmítání imigrace nebo dokonce pomoci ("je málo peněz na naše vlastní lidi, nemůžeme pomáhat dalším"), snahy o řízení růstu populace... 
+
+## Odkazy
+
+- https://web.archive.org/web/20181103145637/https://old.reddit.com/r/Futurology/comments/9rz25n/the_future_is_jobless_the_good_and_the_bad/
