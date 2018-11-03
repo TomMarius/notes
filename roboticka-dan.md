@@ -14,4 +14,4 @@ Pokud neexistuje umělý faktor jako daň a materiály jsou jednoduše a levně 
 
 Mezera mezi chudými a bohatými tedy zmizí sama. Bohatství v materiálním smyslu přestane existovat. Svým způsobem se téměř všichni stanou stejně chudými, ovšem zároveň stejně bohatými.
 
-Zničení civilizace v důsledku daní je samozřejmě nepravděpodobné - někdo by to včas zarazil. Problém je v tom, že pravdepodobně v tento okamžik by vznikla globální totalita, viz historická zkušenost - a vzhledem k technologickému pokroku by s tím už nešlo nic dělat.
+Zničení civilizace v důsledku daní je samozřejmě nepravděpodobné - někdo by to včas zarazil. Problém je v tom, že pravdepodobně v tento okamžik by vznikla globální totalita, viz historická zkušenost - a vzhledem k technologickému pokroku (AI, computer vision, internet, robotizace) by s tím už nešlo nic dělat.
