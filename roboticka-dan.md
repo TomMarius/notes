@@ -20,4 +20,4 @@ Robotická daň dává smysl jako dočasné opatření, kdy lidé, kteří přis
 
 ## Odkazy
 
-- https://web.archive.org/web/20181103145637/https://old.reddit.com/r/Futurology/comments/9rz25n/the_future_is_jobless_the_good_and_the_bad/
+- The Future is Jobless https://web.archive.org/web/20181103145637/https://old.reddit.com/r/Futurology/comments/9rz25n/the_future_is_jobless_the_good_and_the_bad/
